@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "id": null,
+      "title": "judul 1",
+      "content": "ini content 1\n"
+    },
+    {
+      "id": null,
+      "title": "judul 1",
+      "content": "Veri Jhuandes Pratama"
+    },
+    {
+      "id": null,
+      "title": "Nama",
+      "content": "Veri Jhuandes Pratama"
+    },
+    {
+      "id": null,
+      "title": "NPM ",
+      "content": "223510849"
+    },
+    {
+      "id": null,
+      "title": "Kelas",
+      "content": "4A\n"
+    }
+  ]
+}
